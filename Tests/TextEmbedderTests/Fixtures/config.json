@@ -1,0 +1,9 @@
+{
+ "model": "Qwen/Qwen3-Embedding-0.6B",
+ "lengths": [
+  128,
+  512
+ ],
+ "pad": 151643,
+ "dimension": 1024
+}
